@@ -1,7 +1,7 @@
 // Requiring module
 const express = require('express');
  
-// Creating express object
+// Creating express objectgit
 const app = express();
  
 // Handling GET request
